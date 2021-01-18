@@ -3,11 +3,16 @@
 In this analysis we want to look at how the testing scores vary between grade, school type, student size, and most importantly funding. Below we are going to look at a variety of different groupings to give us more insight into how the schools are doing and what may be causing those results. In this case we are taking out scores from 9th graders from Thomas High School for potential academic dishonesty.
 # Results
 Below we have the two results for the District Summary. The first one without taking out the 9th grade scores from Thomas High School due to academic dishonesty and the second chart shows the results with those scores taken out. The district summary is slightly affected since it's a small sample for the whole district . We did not adjust the total students in this summary so the passing rates across the board are about 1% lower cause it consideres the "NaN" as not passing.
-Image 1
-Image 2
+![District_Summary_without_nan](Resources/District_Summary_without_nan.png)
+
+![District_Summary_with_nan](Resources/District_Summary_with_nan.png)
+
 In the School Summary the only school that was affected was Thomas High School since that's where all the scores were replaced. The average scores of math and reading stayed about the same, but yet again this summary views the "NaN'' as not passing so the Passing %'s across the board have decreased about 30%. This takes Thomas High School from an overall passing % from 2nd best to 8th in the district
-Image 1
-Image 2
+
+![School_Summary_without_nan](School_Summary_without_nan.png)
+
+![School_Summary_with_nan](School_Summary_with_nan.png)
+
 - Math and reading scores by grade is barely affected, not visible unless we increase the decimals
 - Scores by school spending is barely affected, not visible unless we increase the decimals
 - Scores by school size is barely affected, not visible unless we increase the decimals
