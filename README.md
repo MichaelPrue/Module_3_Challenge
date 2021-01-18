@@ -9,9 +9,9 @@ Below we have the two results for the District Summary. The first one without ta
 
 In the School Summary the only school that was affected was Thomas High School since that's where all the scores were replaced. The average scores of math and reading stayed about the same, but yet again this summary views the "NaN'' as not passing so the Passing %'s across the board have decreased about 30%. This takes Thomas High School from an overall passing % from 2nd best to 8th in the district
 
-![School_Summary_without_nan](Resourcse/School_Summary_without_nan.png)
+![School_Summary_without_nan](Resources/School_Summary_without_nan.png)
 
-![School_Summary_with_nan](Resourcse/School_Summary_with_nan.png)
+![School_Summary_with_nan](Resources/School_Summary_with_nan.png)
 
 - Math and reading scores by grade is barely affected, not visible unless we increase the decimals
 - Scores by school spending is barely affected, not visible unless we increase the decimals
